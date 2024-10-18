@@ -26,6 +26,8 @@ npm install
 
 change .env files content inside of frontend or backend if needed
 
+### 3 Run
+
 ```bash
 cd backend
 npm run dev
